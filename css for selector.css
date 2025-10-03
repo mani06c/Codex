@@ -1,0 +1,80 @@
+/* Styling h2 and h3 headings */
+h2 {
+    color: #2a9d8f;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    border-bottom: 2px solid #264653;
+}
+
+h3 {
+    color: #e76f51;
+    font-family: 'Georgia', serif;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+/* Highlighted span */
+.highlight {
+    background-color: #f4a261;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+/* Horizontal rule */
+hr {
+    border: 1px solid #264653;
+    margin-bottom: 20px;
+}
+
+/* Box div */
+.box {
+    background-color: #f1faee;
+    border: 2px solid #264653;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+/* Time element */
+time {
+    font-style: italic;
+    color: #2a9d8f;
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Image styling */
+img.image-class {
+    border: 3px solid #e76f51;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+/* Link styling */
+a.link {
+    color: #264653;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a.link:hover {
+    color: #e76f51;
+    text-decoration: underline;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdfdfd;
+    color: #333;
+    margin: 20px;
+}
